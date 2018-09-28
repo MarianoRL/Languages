@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Mi Aplicación</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="paragraph">La historia del idioma español comienza con el latín vulgar del Imperio Romano.
+        Específicamente tiene su origen en el latín vulgar presente en la zona central del norte de Hispania.
+        Tras la caída del Imperio Romano en el siglo V la influencia del latín culto en la gente común fue disminuyendo paulatinamente.</string>
+</resources>
